@@ -69,7 +69,7 @@ python test_suite.py
 
 ---
 
-## **5. Author**  
+## **Author**  
 
 **Amasha Wickramarachchi**  
 amashasewwandi7@gmail.com  
